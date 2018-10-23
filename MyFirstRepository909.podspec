@@ -11,13 +11,13 @@ Pod::Spec.new do |s|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
 
-  s.name         = "MyFirstRepository"
+  s.name         = "MyFirstRepository909"
   s.version      = "0.0.1"
   s.summary      = "short des"
 
 
   s.description  = "this is a test public project"
-  s.homepage     = "https://github.com/zhimeilinzm/MyFirstRepository"
+  s.homepage     = "https://github.com/zhimeilinzm/MyFirstRepository909"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -51,7 +51,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/zhimeilinzm/MyFirstRepository.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/zhimeilinzm/MyFirstRepository909.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
